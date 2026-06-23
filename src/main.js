@@ -1,4 +1,3 @@
-import './style.css';
 const indicator = document.querySelector("#indicator");
 const cityInput = document.querySelector("#city");
 const btn = document.querySelector("#searchBtn");
